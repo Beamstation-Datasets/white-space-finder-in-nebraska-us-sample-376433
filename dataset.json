@@ -6,7 +6,7 @@
   "config_category": "expansion",
   "config_description": "The \"Blue Ocean\" Map. Specific markets where category demand is high (active sentiments) but supply is thin (<5 competitors) in cities with 50k+ population.\n\nThese records are the only locations in Nebraska that pass a strict tri-factor test for high density, severe market undersupply, and immediate micro-radius opportunity.",
   "config_name": "White Space Finder in Nebraska, US",
-  "export_job_id": "a2f4f6a4-327e-46b3-82da-f6a5b70cccb8",
+  "export_job_id": "275e61ee-d157-4f72-a057-7c66b39a05f4",
   "github_org": "Beamstation-Datasets",
   "id_short": 376433,
   "location_name": "Nebraska",
@@ -15,8 +15,8 @@
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/376433/beamstation_376433_food_and_drink-us-ne_SAMPLE_DIST.csv",
   "sample_pct": 9.09,
   "sample_records": 9,
-  "sample_sha256": "d2052b0b3e76c107405ae467cee0de05df8954c0280a3c46adb5ef8f6b471d7f",
-  "sample_size_bytes": 50142,
+  "sample_sha256": "5170285055a766bf1e0b7938778a8952df8e75a50c0306c09833bb45b31dd824",
+  "sample_size_bytes": 50715,
   "total_records": 99,
-  "updated_at": "2026-04-08T00:35:59.009156+00:00"
+  "updated_at": "2026-04-15T06:18:05.042314+00:00"
 }
