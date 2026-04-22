@@ -1,12 +1,12 @@
 {
-  "export_job_id": "275e61ee-d157-4f72-a057-7c66b39a05f4",
+  "export_job_id": "408d9438-9b7d-4278-b3bf-11941c06d83a",
   "id_short": 376433,
-  "published_at": "2026-04-18T07:59:42Z",
+  "published_at": "2026-04-22T19:38:55Z",
   "repo_name": "white-space-finder-in-nebraska-us-sample-376433",
   "sample_asset_name": "beamstation_376433_food_and_drink-us-ne_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/376433/beamstation_376433_food_and_drink-us-ne_SAMPLE_DIST.csv",
-  "sample_records": 9,
-  "sample_sha256": "5170285055a766bf1e0b7938778a8952df8e75a50c0306c09833bb45b31dd824",
-  "sample_size_bytes": 50715,
-  "total_records": 99
+  "sample_records": 1,
+  "sample_sha256": "701240837f1028c3e4136b7e7e3a7ae6578ee574660a4d094f560a97f8fe3e1b",
+  "sample_size_bytes": 19963,
+  "total_records": 15
 }
